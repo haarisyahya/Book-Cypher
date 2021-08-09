@@ -1,9 +1,7 @@
 package Assign2;
 
 
-/** COSC 1P03...
-  *
-  * @author Haaris Yahya
+/* @author Haaris Yahya
   * @version 1.0 (01/14/2021)         */              
 
 import BasicIO.*;                // for IO classes
